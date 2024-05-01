@@ -1,0 +1,36 @@
+
+#join{
+    text-align: center;
+}
+
+#join {
+    position: absolute;
+    margin: auto;
+    top: 100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 70%;
+    width: 70%;
+}
+
+#session{
+    position: absolute;
+    margin: auto;
+    top: 100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 70%;
+    width: 70%;
+}
+#video{
+    position: absolute;
+    margin: auto;
+    top: 100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 30%;
+    width: 30%;
+}
